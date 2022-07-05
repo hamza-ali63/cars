@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/mongodb": "^4.0.7",
+    "@types/node": "^18.0.1"
+  }
+}
